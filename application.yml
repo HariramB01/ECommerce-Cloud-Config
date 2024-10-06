@@ -7,3 +7,9 @@ eureka:
   instance:
     prefer-ip-address: true
     hostname: localhost
+
+
+
+logging:
+  file:
+    name: C:/Users/sparrow/Downloads/Logs/loggers.log
